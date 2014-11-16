@@ -12,7 +12,7 @@
 	If anything is missing, please let me know via email.
 #>
 
-#List the modules that are loaded into the current window.
+#List the modules that are loaded into the current session.
 Get-Module
 
 #Lists all available cmdlets.
