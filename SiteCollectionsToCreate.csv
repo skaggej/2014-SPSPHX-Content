@@ -1,0 +1,17 @@
+Title,Url,Template
+Team Site,teamsite,STS#0
+Blog,blog,BLOG#0
+Document Center,documentcenter,BDR#0
+Developer Site,developersite,DEV#0
+Records Center,recordscenter,OFFILE#1
+Team Site - SharePoint Online configuration,teamsitesharepointonlineconfiguration,EHS#1
+Business Intelligence Center,businessintelligencecenter,BICenterSite#0
+Enterprise Search Center,enterprisesearchcenter,SRCHCEN#0
+Publishing Portal,publishingportal,BLANKINTERNETCONTAINER#0
+Enterprise Wiki,enterprisewiki,ENTERWIKI#0
+Project Site,projectsite,PROJECTSITE#0
+Product Catalog,productcatalog,PRODUCTCATALOG#0
+Community Site,communitysite,COMMUNITY#0
+Community Portal,communityportal,COMMUNITYPORTAL#0
+Basic Search Center,basicsearchcenter,SRCHCENTERLITE#0
+Visio Process Repository,visioprocessrepository,visprus#0

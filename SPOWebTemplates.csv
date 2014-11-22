@@ -1,0 +1,18 @@
+#TYPE Selected.Microsoft.Online.SharePoint.PowerShell.SPOWebTemplate,
+Name,Title
+STS#0,Team Site
+BLOG#0,Blog
+BDR#0,Document Center
+DEV#0,Developer Site
+OFFILE#1,Records Center
+EHS#1,Team Site - SharePoint Online configuration
+BICenterSite#0,Business Intelligence Center
+SRCHCEN#0,Enterprise Search Center
+BLANKINTERNETCONTAINER#0,Publishing Portal
+ENTERWIKI#0,Enterprise Wiki
+PROJECTSITE#0,Project Site
+PRODUCTCATALOG#0,Product Catalog
+COMMUNITY#0,Community Site
+COMMUNITYPORTAL#0,Community Portal
+SRCHCENTERLITE#0,Basic Search Center
+visprus#0,Visio Process Repository
